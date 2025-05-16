@@ -28,7 +28,7 @@ A Python-based encryption tool that combines multiple layers of **Base64 encodin
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**kingtoad-c**  
 [GitHub](https://github.com/kingtoad-c)
 
 ## 📜 License
