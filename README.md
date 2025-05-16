@@ -21,8 +21,7 @@ A Python-based encryption tool that combines multiple layers of **Base64 encodin
    - Then Base64 encoding is applied repeatedly according to the first key.
 
 2. **Decryption**:
-   - Base64 decoding is applied repeatedly according to the first key.
-   - Caesar cipher is reversed using the second key.
+   - Base64 decoding is applied multiple times and so is the ceaser cypher both encrypted hidden behind a second shift key wich requires both to unlock
 
 > ⚠️ This tool is for **educational and obfuscation purposes only**. It is **not cryptographically secure** and should not be used for protecting sensitive information in production.
 
