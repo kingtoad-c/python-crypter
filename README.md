@@ -1,4 +1,4 @@
-# 🔐 Ceb cypher
+# 🔐 Ceb cypher (encoder)
 
 A Python-based encryption tool that combines multiple layers of **Base64 encoding** and **Caesar cipher shifts** using two encryption keys for enhanced data obfuscation. Perfect for educational purposes, CTF challenges, or lightweight data masking.
 
